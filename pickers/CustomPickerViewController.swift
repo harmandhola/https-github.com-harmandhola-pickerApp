@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  CustomPickerViewController.swift
 //  pickers
 //
 //  Created by Harman Dhola on 2019-10-12.
@@ -8,13 +8,11 @@
 
 import UIKit
 
-class ViewController: UITabBarController {
+class CustomPickerViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
     }
 
-
 }
-
